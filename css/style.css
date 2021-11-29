@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.flex-container { 
+    display: flex;
+}
+
+.flex-container > div {
+    color: #00274C;
+}
+
+.days-text {
+    text-align: center;
+}
+
+img { 
+    width: 100%;
+    max-width: 500px;
+}
+
+#annArborTime {
+    font-size: 22px;
+}
